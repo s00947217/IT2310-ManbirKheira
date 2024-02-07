@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Meet Manny Kheira</title>
 </head>
 <body>
@@ -13,7 +11,7 @@
         <section>
             <h2>About Me</h2>
             <p>My name is Manny Kheira, and I'm passionate about computers and programming. I believe that the future holds endless possibilities in this field.</p>
-            <img src="manny-avatar.jpg" alt="Manny Kheira">
+            <img src="![Dog-friendly-golfing-in-the-UK](https://github.com/s00947217/IT2310-ManbirKheira/assets/149434428/e04c75a8-2fb4-40f8-a60d-e86bf6105fe1)" alt="Manny Kheira">
         </section>
         <section>
             <h2>My Goals</h2>
